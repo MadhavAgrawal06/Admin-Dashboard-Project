@@ -4,7 +4,7 @@ A basic and minimal **Admin Dashboard** web page built using HTML and CSS.
 
 ## 🔗 Live Website
 
-[View it here](https://madhavagrawal06.github.io/Admin-Dasboard-Project/)
+[View it here](https://madhavagrawal06.github.io/Admin-Dashboard-Project/)
 
 ## 📸 Screenshot
 
