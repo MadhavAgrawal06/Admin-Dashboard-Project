@@ -6,6 +6,10 @@ A basic and minimal **Admin Dashboard** web page built using HTML and CSS.
 
 [View it here](https://madhavagrawal06.github.io/Admin-Dasboard-Project/)
 
+## 📸 Screenshot
+
+![Dashboard Preview](screenshot.png)
+
 ## 📁 Files Included
 
 - `index.html` — Main HTML file
